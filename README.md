@@ -4,8 +4,8 @@ Model trained using [Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/da
 
 ![example](pets_classifier_sh1.png)
 
-- Results: With resnet50 as the architecture chosen, our model got an accuracy of 0.9614 (96%)
+- Results: With resnet50 as the architecture chosen, our model got an accuracy of 96.14%.
 
 ![result](pets_classifier_sh2.png)
 
-error_rate showed instead (error_rate = 1 - accuracy)
+_error_rate showed instead (error_rate = 1 - accuracy)._
